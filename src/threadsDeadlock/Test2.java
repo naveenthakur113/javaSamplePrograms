@@ -9,7 +9,7 @@ public class Test2 {
 		MyThread1 thread1=new MyThread1(new Shared());
 		thread1.start();
 		MyThread2 thread2=new MyThread2(new Shared());
-		thread2.start();
+		
 	}
 
 }

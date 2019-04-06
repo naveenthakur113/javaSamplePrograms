@@ -1,4 +1,4 @@
-package CodingQuestions;
+
 
 public class HelloWorld {
 	

@@ -7,6 +7,14 @@ public class HelloWorld {
 		
 		System.out.println("New Statement added");
 		System.out.println("New Statement added - 2");
+		System.out.println("New Statement added - 3");
+
+		System.out.println("New Statement added - 4");
+
+		System.out.println("New Statement added - 5");
+
+		System.out.println("New Statement added - 6");
+
 	}
 
 }
